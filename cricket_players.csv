@@ -1,0 +1,501 @@
+Player,Country,Player_ID,Matches,Runs,Batting_Avg,Strike_Rate,Wickets,Economy
+Amol Chelani,India,e79943b8-feb9-4b91-b1ce-41d8b7679c32,60,3865,29.7,94.0,110,8.2
+Harry Sixton,New Zealand,c8b67c68-623e-4afa-9236-ccacacc46422,103,422,15.1,67.2,239,8.4
+Eddla Srujana,India,840e8c1b-a925-448d-81f8-e3dbc159df2b,84,6452,37.5,103.6,97,5.6
+Pragati Singh,India,1a4d7adb-c8a2-49f4-bfaf-0fc352fbe65d,249,11847,39.1,128.2,1,1.8
+Yuvraj Gohil,India,bbc2ba30-bfe2-490c-a5bf-3612cbd6866c,191,858,22.8,61.0,45,8.7
+Karthik Sandil,India,3f2cdd43-b5ea-4554-b769-60ca5c4c0eb4,222,3053,39.5,121.1,9,7.1
+Tanmay Baloda,India,b245cdd4-2570-4bec-9f43-78c38b9cf02d,216,10054,26.3,144.1,10,7.8
+Dipjyoti Saikia,India,4ca6670a-7860-4e03-b8c6-ec2965f59d22,92,1338,12.8,63.1,95,7.7
+Yumnam Chingkhei Nganba,India,801882a2-5c04-49d3-b498-acf69f046124,85,3335,33.2,126.5,20,7.3
+Lakshya Rajesh Raichandani,India,6dcf294f-5c5e-452e-a095-53d5d1a4175a,91,8331,29.5,139.0,3,3.3
+Rahul Prasad,India,43550e7f-3e92-4285-b68b-66b0a73353bc,102,2684,38.2,130.9,95,6.2
+Rehaan Ahtif,Tanzania,19dbb348-b4d2-438c-af23-6a0aa950ece3,154,445,24.2,70.9,177,5.6
+Aqil Khan,Afghanistan,e1ac66db-9e63-4c23-b58a-c4add6504975,177,6811,32.7,94.7,43,6.0
+Sam Morgan,Wellington,9578c05f-4735-4630-b78b-552f568908b7,181,7473,36.1,95.7,68,7.9
+Faiz Mohammad Sheikh,India,d1aa8d5a-209c-4d3b-a728-3261b49f1cf2,24,389,10.8,90.9,220,6.6
+Sonu Khadka,Nepal,3f2d5f57-14ad-4074-92b0-d7b1a19c2672,139,1767,31.1,88.7,144,6.6
+Rohit Binkar,India,5291db9c-19ce-4836-9861-ec3c81236437,188,1297,29.9,96.1,5,7.7
+Ruan Van Rooyen,South Africa,f42e31d0-9b09-4277-8a66-5fd01e3746ac,121,1294,21.6,66.7,73,8.6
+Liam Doherty,South Africa,fb5ae4f9-4cc6-41e0-b290-dab3067cc58f,164,1060,8.2,99.6,109,7.9
+Michael Archer,Australia,c21e19c1-3437-4fad-9630-45a11260bb99,89,4554,29.3,104.3,5,5.4
+Ross Boast,South Africa,da58281a-275e-4753-912f-40b463fd3b48,92,7703,43.8,105.0,147,7.7
+Ali Farooq,England,5b24cf4e-871f-4a20-97fb-f6cdddf49e81,143,7950,48.4,84.4,1,2.1
+Caleb Falconer,England,a49b993b-9e67-4941-9b14-5be78c7c67b1,159,2893,40.0,126.5,25,6.3
+Luke Harrison,New Zealand,09615896-33f3-4827-9e74-8f1b620dbce1,52,8136,52.9,125.1,6,4.3
+Harry Waite,New Zealand,5a553783-5603-4816-8bfb-cf24dc787f08,256,11566,27.7,79.7,7,5.4
+Hunter Shore,New Zealand,dc048b09-b8c4-49bd-b39e-35f3d8515b23,274,6233,28.0,132.1,3,2.4
+Flynn Morey,New Zealand,a561e1d7-e829-4b82-8a24-683128e0bd8d,250,14016,45.4,125.0,1,6.0
+Selwin Sanjay,New Zealand,29c1f6f1-22e3-46d2-8c00-48fcbbd93b0b,242,11408,59.6,121.2,8,7.8
+Harry Burns,New Zealand,ea922a0a-30b7-43db-86b6-3e0ef5a8e97f,140,4984,37.5,95.4,39,6.8
+Callum Samson,New Zealand,4b51a84a-11e7-4526-8260-40a5386b2fa2,152,1518,41.2,124.6,26,8.3
+Brandon Matzopoulos,New Zealand,b7323f6a-31a8-4e8f-ac48-801cde3a5480,50,3616,53.2,144.8,9,4.0
+Jacob Cotter,New Zealand,7d815a88-d55a-44fc-bfce-5cafc4d6383c,116,2619,28.2,132.3,56,6.1
+Hugo Bogue,New Zealand,09793a05-8f20-4892-b8b7-bb8b32f17404,184,3708,35.0,89.4,71,6.9
+Faisal Shinozada,Afghanistan,e878e472-335c-4613-9f22-01692e632f43,171,5867,38.7,121.3,138,6.9
+Luke Holt,Australia,06882269-b660-4b90-a0da-de56c755817f,149,4374,31.3,95.0,66,8.2
+Zaitullah Shaheen,Afghanistan,e12c892d-a9f4-4367-847f-f7bb9f163c17,141,4595,30.4,110.6,36,6.7
+Roohullah Arab,Afghanistan,a76aca7b-bbc0-4afd-81e4-b624d6ced17a,218,1219,38.4,120.1,41,7.5
+Salam Khan,Afghanistan,a3027500-e2d5-4acd-b8b8-7f628c5eee39,100,14993,25.6,126.7,2,3.7
+Azizullah Miakhil,Afghanistan,9b8130b9-a025-4500-a8f9-31f288690e12,192,411,23.1,89.0,148,6.9
+Osman Sadat,Afghanistan,234631ea-1ae2-47f7-b7a5-903e98ca33ec,139,1955,41.3,102.6,0,0.0
+Khalid Ahmadzai,Afghanistan,3a6adca7-066e-443a-a8b8-e1ef0da04104,141,6715,41.3,148.9,1,1.8
+Naden Cooray,Australia,76e5f725-6ebe-499f-8e99-4666220d718d,103,5391,28.2,100.5,31,8.2
+William Taylor,Australia,48a32f0c-c653-43c7-aec4-cff0fd016874,155,1577,34.6,128.6,5,1.3
+Jeewantha Sriram,Sri Lanka,3d7126ab-89bc-491b-8ee6-04fd7ada7194,291,10253,34.5,115.1,0,0.0
+Malintha Silva,Sri Lanka,8bb98d32-06ce-480f-86cf-a05d685d91b3,66,5377,40.8,113.8,36,8.0
+Rasith Nimsara,Sri Lanka,0222cb9e-bd31-43f3-bf92-db92c971a183,196,3221,44.4,113.0,150,5.5
+Chamika Heenatigala,Sri Lanka,06ad9a39-3562-46dd-83ec-e15dc7da70ef,191,6451,37.9,91.0,21,5.7
+Nitesh Samuel,Australia,0651b1e8-7a75-4230-b64b-330a0a8cecad,74,1374,13.1,83.9,217,7.0
+Vigneshwaran Akash,Sri Lanka,0d03705a-9d09-4cbd-9273-905c879093ad,173,2747,44.2,139.3,7,5.4
+Kithma Withanapathirana,Sri Lanka,d94d5891-8283-49c8-980c-0dbe3032b4e6,167,4635,25.1,81.9,4,2.1
+Sethmika Seneviratne,Sri Lanka,63ae9908-43d8-43e6-b439-86803399ed7e,195,4043,42.0,134.4,57,5.9
+Dimantha Mahavithana,Sri Lanka,e503e70f-0e00-41f0-899f-f2983c8760d4,69,4693,31.1,110.2,2,3.9
+Chamarindu Nethsara,Sri Lanka,4ffe2c0c-3fc5-4da5-9585-6ad0045ba946,129,9065,26.6,79.0,10,6.5
+Senuja Wekunagoda,Sri Lanka,b7fc2116-d1fe-4905-9c8b-d47cb8351def,293,13304,33.1,131.1,2,6.7
+Aadham Hilmy,Sri Lanka,0cfe826a-17ee-4cc0-8ec8-7cd7bd69a612,228,4873,41.7,81.8,3,7.3
+Michael Kruiskamp,South Africa,af0d1026-121a-4354-aee9-8866856c77f3,189,4168,28.1,88.5,89,6.6
+JJ Basson,South Africa,950f28be-1ed2-4ee6-a870-a84b96d311f7,147,2587,35.1,94.6,71,6.0
+Corne Botha,South Africa,9d88e90d-b7a2-4c30-a0d1-12614263f855,32,624,13.5,61.3,74,7.7
+Bayanda Majola,South Africa,51a7f6f6-9860-4144-99f4-7ea9e75b9dcb,201,3706,33.9,128.9,123,7.2
+Shipra Giri,India,2cfb1913-20d9-4f00-b562-134518041a45,56,10101,30.2,89.6,0,0.0
+Happy Kumari,India,825468c8-9980-4046-be72-93a9e25ae066,256,3341,28.7,85.7,7,3.6
+Shivani Singh,India,7d3a1c61-8472-4775-bf1a-8635d6ec6200,122,13003,28.2,83.7,1,0.5
+Anushka Sharma,India,1d79f2b2-e753-4e7e-86b0-ffe9366c16ae,151,5545,30.4,131.1,74,5.9
+Nitish Sudini,United States of America,b532f5c9-94b9-4c77-893f-a8f7fc468f21,283,6587,30.3,97.0,7,6.6
+Prathyoosha Kumar,India,faac7f77-c536-4ab6-86d4-e54f743e0f34,223,5552,25.8,119.4,10,2.9
+Gautami Naik,India,6b8d3175-8954-45f4-86ce-589243e07dbe,150,2056,38.7,116.0,144,8.1
+Deeya Yadav,India,44a4dc5e-5345-4ba3-a2ba-4404e3ae078c,126,1076,15.7,65.9,233,8.1
+Nandni Sharma,India,0b5f121d-1340-4033-a37b-d1bf0e3a2355,74,1267,23.2,84.3,164,7.3
+Nalla Kranthi Reddy,India,81e9ea2a-83b9-4139-9087-3d41482e3c46,107,12222,35.2,86.0,4,6.9
+Triveni Vasistha,India,3c15260c-dd84-4731-a1ae-7af2e9138af5,38,4201,52.6,78.9,10,1.8
+Rahila Firdous,India,754967b4-3983-4a85-aa59-f305a24c4a09,181,1145,23.6,74.6,203,5.2
+Shakhir Hossain,Bangladesh,144b7c08-7b7d-40a8-8081-2a607db7cd9c,165,1428,31.9,109.9,144,7.5
+Md Rubel,Bangladesh,8fe9a38a-5d5b-43a4-ad4d-5d63bd8c2e2c,300,678,42.9,103.2,9,2.8
+Abdul Gaffar Saqlain,Bangladesh,c0326ff4-c855-480a-9504-0a6249eb2fc1,129,7295,42.0,85.7,109,8.3
+Abu Hasim,Bangladesh,6bd2c781-75a2-4026-adc0-743ba1503f18,166,5321,29.3,88.8,42,6.8
+Tofael Ahmed,Bangladesh,eb56e332-4d93-4b29-931d-67089b2c0f29,275,9869,41.6,94.1,0,0.0
+Moinul Islam,Bangladesh,15a677de-93e9-4d10-a24d-bc2030bd60f4,66,1426,18.8,90.9,117,6.1
+Jayed Ullah,Bangladesh,64bdb6a0-b6dc-49d3-8acf-a3e1dd0118ed,202,2052,32.7,122.2,52,5.6
+Mehedi Hasan Sohag,Bangladesh,ac564d1c-87c6-457b-8919-d1e5e55296a5,181,282,12.8,91.6,120,6.2
+Iftakhar Hossain Ifti,Bangladesh,64eb0c5a-06e2-4baa-bb2e-fe7353838321,170,235,20.0,67.9,102,5.6
+Ariful Islam Jony,Bangladesh,dede378b-892d-4f98-9d50-a09eb730b038,76,5614,35.6,148.9,0,0.0
+Rishabh Shimpi,United States of America,2387f2a4-e77b-4cfc-a7f2-c3ebbc88adaa,36,1491,18.0,61.2,175,5.1
+Rayaan Taj,United States of America,749ad78f-1420-40a0-9520-ecc879024c01,141,2396,39.6,104.8,26,7.1
+Ritvik Appidi,United States of America,88c95e51-c4a9-4144-9589-1ca4879385f3,78,2440,42.1,141.0,1,5.2
+Sahil Garg,United States of America,3c8f73a2-cab7-4f30-883c-066342dd00a8,101,2576,42.5,104.6,91,6.1
+Adit Kappa,United States of America,7033fc1c-2640-4a50-8b1f-60310d426305,201,6058,43.2,96.0,100,7.6
+Sabrish Prasad,United States of America,028db0ea-d092-4255-9743-3ea7436906f9,224,3418,58.3,129.5,5,0.2
+Amrinder Gill,United States of America,9940b72c-1ef7-47b8-af12-1f7a70d6dee3,72,1377,22.6,94.6,33,7.0
+Sahir Bhatia,United States of America,91ff3518-d3ed-44cb-8984-46db9b42e9d5,132,7038,30.9,117.8,3,5.1
+Advaith Krishna,United States of America,04875953-bbc5-4fab-86f5-ae177023e177,93,7349,33.5,102.4,145,7.7
+Shiv Shani,United States of America,a8af07f2-3e9f-4ef3-9f2b-f097dc99d1f4,72,1290,13.8,76.7,119,7.8
+Adnit Jhamb,United States of America,b145a9ca-2f36-40b5-868c-7279d25e5481,76,4662,44.8,139.7,0,0.0
+Kupakwashe Muradzi,Zimbabwe,6ce82a92-0868-48c9-8513-0b4fd05c4b40,119,1104,24.5,72.9,48,4.8
+Michael Blignaut,Zimbabwe,5a6a25d2-a8fa-4217-839d-32c1c234ecb7,159,14695,41.1,76.2,6,0.2
+Kian Blignaut,Zimbabwe,366b0bec-99fc-4049-b410-dae04947d801,159,6808,43.7,123.8,90,8.4
+Tatenda Chimugoro,Zimbabwe,1e923dc4-e945-4e50-8718-4a10764091c4,162,6107,37.7,141.9,8,2.1
+Leeroy Chiwaula,Zimbabwe,01656fc0-f2fe-4b11-a3ff-5e2153b3c418,63,6855,58.9,97.9,1,0.9
+Dhruv Patel,Zimbabwe,d5e63e6c-6be2-4201-a39d-d02714110ca1,144,1608,41.1,91.4,136,5.9
+Webster Madhidhi,Zimbabwe,969299cc-f443-4c1e-bc4f-1e63e5c9f73c,98,14944,59.6,100.7,2,7.8
+Takudzwa Makoni,Zimbabwe,7bada151-aac8-4a7b-ab1c-0ae0bca97f29,187,13515,39.6,77.2,1,3.0
+Panashe Mazai,Zimbabwe,1de8e2dd-ae23-483e-9a16-9ec9fd9f37e2,96,140,16.6,72.0,225,5.1
+Shelton Mazvitorera,Zimbabwe,0e81bf2f-abca-41e7-bf13-bcbf3acf76a1,173,7114,36.1,129.5,20,7.7
+Benny Zuze,Zimbabwe,a0e7f100-6699-436a-944e-e86f779e648e,46,10981,57.4,140.8,6,4.2
+Brandon Senzere,Zimbabwe,aed501cc-0486-4dee-a4d4-1a5c454cd2ac,222,5450,36.9,126.0,95,8.5
+Brandon Ndiweni,Zimbabwe,0a30a483-178a-441f-b240-585cfb601bb3,206,2443,42.0,111.5,93,7.4
+Simbarashe Mudzengerere,Zimbabwe,5a1c1ee1-3831-447b-a6d9-acf6525d154d,39,237,24.9,72.7,213,6.9
+Finlay Carter,Scotland,beef9d9b-479c-4130-8adf-0a7181032eb1,113,4281,34.7,124.2,97,6.7
+Max Chaplin,Scotland,55aaa459-9e55-47ca-ba0f-85be26d956e4,45,505,24.7,82.1,180,7.6
+Theo Robinson,Scotland,5969c27c-4c38-47ef-8a02-464ce26455b4,130,2544,32.5,122.4,47,6.7
+Shlok Thaker,Scotland,5e6acc11-2f32-4682-963e-3779743b96e3,298,5672,38.9,130.4,3,0.4
+Jake Woodhouse,Scotland,ebdc59dd-3214-4221-a690-ade6299d2e63,47,5058,33.5,81.0,3,1.9
+Ethan Ramsay,Scotland,615b7e7c-b637-4234-b2f1-303c7133e40c,113,480,16.3,89.1,41,7.3
+Ollie Jones,Scotland,cd636d33-75e4-44ca-8628-d4dc3d0983d3,141,861,16.2,80.8,241,6.5
+Finlay Jones,Scotland,a8ed31d8-4ee2-467d-baa9-8bb1f106ba1d,127,1404,11.5,76.3,129,8.9
+Ram Sharma,Scotland,4c7d7e36-18ea-4510-b71d-620058d9cd86,177,7908,28.2,92.8,103,5.6
+Manu Saraswat,Scotland,96cd1562-43b5-40ff-a0cc-0cf06e2c25a2,131,3849,48.1,111.7,4,5.0
+Shreyas Tekale,Scotland,9e1d638a-b9d1-4cde-a641-d3e80948327a,113,10167,56.8,82.2,1,3.6
+Olly Pillinger,Scotland,f5cbd4a8-2bc9-4311-be9d-6989a0309397,129,9424,46.8,95.4,2,0.6
+Jonathan van Lange,West Indies,a6d5cbba-e5e9-4959-815b-54f921d6a188,67,1960,38.1,119.3,117,5.7
+George Cutler,Scotland,5f28cc86-9a92-4b58-9b1f-c71b89c076d7,93,13272,25.6,122.3,8,2.9
+Kunal Tilokani,West Indies,bdaaf359-ce21-4153-957e-a9e0c41b9df6,248,7942,59.7,94.3,5,4.5
+Thomas Knight,Scotland,c4adfe40-80d9-4b1f-9393-24c7a3090aa3,108,2856,28.7,105.6,148,8.5
+Aadian Racha,West Indies,96e49a04-9a0d-4ed1-a9e5-e6dae6b3c3ae,201,824,54.8,125.5,7,3.8
+Jakeem Pollard,West Indies,ef469d02-e7ec-44ab-9dd3-45d5087b35a5,220,6990,38.9,104.2,64,6.6
+Israel Morton,West Indies,f943f812-2a6c-4106-b481-b26babc9b1cd,191,10381,37.7,141.4,9,7.0
+Matthew Miller,West Indies,ce9e47be-374a-4b02-8f4a-15893916012b,255,11133,48.1,135.9,7,6.2
+Micah McKenzie,West Indies,254bd372-585c-4cf7-abd8-633aee31e88a,136,87,12.8,80.9,224,5.1
+Vitel Lawes,West Indies,c968d1d8-ea1a-4608-b867-1eea09088c29,163,199,19.6,74.9,160,4.5
+RJai Gittens,West Indies,dca490f4-66c3-4a61-917a-48eb678b143e,213,10685,32.0,116.2,10,0.3
+Tanez Francis,West Indies,bd8ee22f-a052-4ac9-bcb6-675127665e39,188,1139,22.5,92.4,239,8.3
+Aaron George,India,8d18041c-f6f2-4288-ba5f-7478cc6c8146,117,4938,30.3,107.9,51,7.0
+Zachary Carter,West Indies,9ff2bee9-69d2-46b8-abbf-00f477ec3a2b,45,13429,29.8,79.5,4,2.9
+Shaquan Belle,West Indies,14a99b25-1180-43fc-a035-5442a51907a8,57,3482,41.4,132.7,21,7.4
+Shamar Apple,West Indies,c12ccdc9-4b5d-4457-b3e0-dedb0dfc438f,234,2978,30.8,123.9,130,5.8
+Alex Armstrong,Ireland,01ddb63c-e726-4aa4-9a6f-b6dd405523b1,212,1694,55.0,140.9,1,5.8
+Callum Armstrong,Ireland,35c04bae-c30b-43bc-bf1b-c0353af93048,51,4976,50.5,100.6,7,0.3
+Bruce Whaley,Ireland,63bd2f67-0d82-43e4-ac08-caf8a6f142e0,108,6032,36.4,107.2,4,2.6
+James West,Ireland,5543cc44-d05f-49c0-99d6-d36e4bb43abd,93,1023,14.6,63.1,210,5.4
+Freddie Ogilby,Zimbabwe,1de0904b-7847-4c97-87dd-7f65f7196d22,193,4740,29.2,117.2,110,6.3
+Robert O'Brien,Zimbabwe,b8dd5fdf-60e3-4e6e-bda5-c6ebd48ac2a1,27,8146,31.2,77.8,2,2.1
+Luke Murray,Ireland,7b0598dd-84e8-4b96-8f33-a5cead8474fa,224,13688,53.6,135.7,6,2.7
+Febin Manoj,Ireland,859a0490-f60c-4c29-8892-2ac8fff90dd7,90,1303,22.2,87.9,248,7.8
+Adam Leckey,Ireland,69951651-aa00-44cf-b12e-4cdbe15b9b0d,105,492,16.9,89.6,187,4.8
+Shahriar Ahmed,Bangladesh,cd6a5d59-eb3e-4246-b703-9d60d52018db,289,11010,41.9,83.3,4,5.3
+Samuel Haslett,Ireland,cdd85456-e4b1-4ed0-86f7-e209c381d8ba,38,1034,23.6,73.8,64,6.4
+Shahria Al-Amin,Bangladesh,0256fda5-84e6-4fc6-9f1c-5b22e8413a73,176,6983,39.3,110.9,34,6.2
+Thomas Ford,Ireland,6b0cf0ea-a82e-4a23-a34a-1c0bc376ab16,250,4811,33.0,116.9,78,5.5
+Shadhin Islam,Bangladesh,19b2a135-3913-471a-93f2-6a5c668957c0,216,5264,41.8,118.3,146,5.5
+Sebastian Dijkstra,Ireland,1ed062e6-11fb-4bd3-8927-9f4dff6019d0,259,11865,37.6,80.9,10,1.5
+Marko Bates,Ireland,1b8fa2b4-4123-4bff-90ec-86ba0af5a106,72,7411,36.5,106.4,6,4.9
+Md Abdullah,Bangladesh,8d74c52a-cc85-44f1-92a1-19ea74202450,163,979,20.9,65.7,117,7.8
+Niqab Shafiq,Pakistan,1b6c9cd6-a6ed-4166-b68e-7f0e2c7bd089,122,4350,29.7,105.4,113,5.9
+Ali Hassan Baloch,Pakistan,eb2de572-0208-4c7e-983b-9d01a2cffe02,140,2216,37.9,103.7,50,8.1
+Mohammad Sayyam,Pakistan,53ae2a74-79db-4991-9fc0-0123bb492ee5,137,5187,40.8,102.5,43,5.8
+Daniyal Ali Khan,Pakistan,c6357a36-d6f9-4daf-8109-e6f872b02e5a,142,606,15.3,88.9,90,7.3
+Huzaifa Ahsan,Pakistan,3e920054-d755-43ec-94fa-5d2c0ff799b5,89,14198,36.2,119.8,1,7.4
+Usman Khan,Pakistan,db3198ca-42d8-4947-bb24-1cc573732773,252,5229,31.1,77.5,2,4.2
+Mohammad Shayan,Pakistan,1b6a60e4-a482-4d08-89ca-1bb72bfa18d3,32,1304,15.6,71.3,93,4.7
+Sameer Minhas,Pakistan,6217b053-5e0e-4931-b3b6-33e86d4cb0f6,147,11376,30.6,114.5,8,7.3
+Hamza Zahoor,Pakistan,1f7768cd-e546-4bf5-bef4-6cdcd82e987f,128,2936,33.1,119.6,119,7.3
+Dylan Thakrar,Tanzania,b93f86d7-621e-41a5-b524-3d8ca2c4a0d5,83,11622,58.7,115.0,10,0.2
+Darpan Jobanputra,Tanzania,a1b60e28-ced9-45d8-ad07-d651ce505abd,150,1430,17.5,86.9,245,6.9
+Ayaan Ashik Shariff,Tanzania,76d03401-4eba-4799-b75f-e5cad12b5af9,81,830,16.9,85.1,85,8.9
+Abdulazak Mohamedi,Tanzania,f5c56eb8-9b7d-4f10-9d90-c6bdb2e7ada5,67,770,14.0,94.6,100,7.2
+Omary Ramadhani,Tanzania,c7892a25-b575-4291-b687-c74a3dbe4ca5,66,927,18.4,66.9,44,5.9
+Agustino Meya Mwamele,Tanzania,d9e3d360-be69-47bc-8aee-020503b90ad1,144,136,12.7,68.2,247,6.0
+Karim Rashidi Kiseto,Tanzania,448a5213-3378-4973-a40e-709aed3040e1,79,2847,58.7,144.3,10,4.0
+Hamza Ally Onai,Tanzania,f99dd3ad-a3c6-4641-8a97-435c8ff69dce,141,13980,46.8,142.9,6,6.0
+Alfred Daniel,Tanzania,a0277e35-1781-45ff-b3e1-21fb7c4162c8,123,3254,31.8,111.9,117,7.8
+Taylor Waugh,Japan,7ce21d58-0329-4af8-adcd-683e5673604c,45,758,17.8,94.5,199,5.8
+Sandev Waduge,Japan,52b86f47-b628-4431-925a-5eb0e5b66b75,64,424,13.4,69.0,237,6.9
+Chihaya Sekine,Japan,3f155e55-a389-4314-9104-346f34d13e50,231,5486,42.8,106.1,7,2.5
+Ryuki Ozeki,Japan,8cbfa322-6a57-4587-aac5-1c256d56ce32,112,3527,29.6,130.7,144,8.0
+Nikhil Pol,Japan,888d1d0f-5f4a-4638-a40c-489af3162c29,225,4973,42.9,132.4,107,7.3
+Montgomery Hara Hinze,Japan,48b373e6-93c2-412d-b9f1-02f802c0c9f6,58,1110,34.6,86.9,115,5.9
+Gabriel Hara Hinze,Japan,65a8026a-e11c-4fbe-beb3-baf900fc14e7,102,1101,20.6,77.7,140,6.7
+Kaisei Doggett,Japan,4efca6b7-e91c-48e9-a31a-fa2245427112,119,2692,43.6,132.2,121,8.1
+Adam Jones,New Zealand,8d877c8c-f5cb-43b7-994e-cbc9272b2893,109,4945,32.9,110.4,87,6.8
+D Bhambhu,India,3ce3891a-e17d-4a5a-9c48-992a6ad669d5,281,8434,33.7,89.7,9,5.1
+Rahul Khandelwal,India,2a839802-cd2f-49e6-86dd-099fe0183b42,42,4941,39.7,114.9,7,6.6
+Varun,India,733ae0b4-ee20-4194-b07e-4ff1631a2146,179,5444,31.5,96.9,36,5.5
+Debaprasad Krishnanaman Sinha,India,ff149970-10eb-4011-b3b9-bb6d6672ed36,81,669,22.5,75.3,36,8.7
+LLB Harper,New Zealand,1cfe0e9f-448d-4448-b71c-2a15195ec644,150,11052,34.6,123.8,1,6.8
+Aryan Garg,India,97632a81-2062-46ac-809c-2b67ea515dcf,143,672,16.3,86.4,138,8.6
+Player Not Found,India,3e1efce3-a0e3-4003-b4b1-b435714458be,111,941,16.9,63.8,40,5.0
+Ajay Singh,India,43aebcd5-e2c3-41d1-9189-a80a3bad1836,102,12744,52.7,78.1,1,7.1
+Pranav Varma,India,27d449cf-ba7a-4098-824f-fe99d1e20e41,116,4047,56.0,146.2,1,1.0
+Dikshant Kundal,India,53f29a9b-d5e5-43f4-88c0-3323e8c7c56f,163,258,15.9,92.9,142,6.5
+Prithvi Raj,India,73db2987-8caf-472d-8709-e73fdeccdcf8,21,647,13.1,75.5,49,5.3
+Baddula Sunil Yadav,India,87e2912c-2399-4b92-a188-2bbe411da791,179,122,21.5,76.3,101,9.0
+Devdatta Natu,India,b65267a9-ef62-4cc9-ba0a-5e20d233d85b,173,3949,40.5,129.1,85,8.5
+Harjit Singh,India,97778f26-fbf1-4cf5-bf2f-a58c10942969,177,2634,41.9,130.6,54,8.3
+Aditya Kumar,India,4c78347e-ef9d-4983-bf1f-d5df74abec41,190,6924,27.0,115.9,10,5.7
+Priyanshu Barswal,India,df6bb5af-c79c-41c2-bca0-63669bb17351,89,7112,43.6,99.5,52,6.7
+Lee Kamra,India,cecd39c7-c203-4ace-ac7f-e2b3c4862cbc,22,2990,36.6,115.1,4,7.9
+Sumit Sharma,India,df82afa1-3d16-4137-8e2a-03ceea22ce6e,166,5782,36.7,90.7,76,7.3
+Rohit Das,India,d4db9e5b-c58d-43bd-ae66-53d41e54b183,269,5558,45.9,75.3,8,1.5
+Harsh Rana,India,50596d38-fa14-46f2-b77d-26203f530e5d,144,6166,41.4,99.9,10,1.3
+Jarren Bacher,South Africa,cacc7a87-2a30-459b-b566-c85d91e08ff5,114,54,10.9,99.6,242,4.8
+Neil Timmers,South Africa,d2873554-1eae-4b65-814e-0ae1c6b0dfc9,160,1282,20.3,98.5,89,4.9
+Yugvinder,India,8659bf2f-efa1-4173-bc63-84d93687bc2d,278,13637,48.8,84.5,1,1.2
+Gysbert Wege,South Africa,d853020f-d9de-4c22-81aa-b889d97d58e1,50,8591,37.7,113.4,0,0.0
+Jake Scott,Australia,2e793f55-1093-474a-baf2-9db1393c549a,244,4912,36.1,89.2,114,6.4
+Rydham Sharma,India,835c77b7-6449-4aab-b7e7-390ce8379dab,141,4444,34.1,94.5,107,7.6
+Samit Mishra,India,61251c39-8472-4271-8944-9c45f5121e1d,230,1453,42.1,115.2,147,7.4
+Sagar Dahiya,India,36d7a38c-18e1-4fc1-b7e2-9c3344ef710d,65,887,17.7,72.9,33,7.8
+Aditya Singh Rathore,India,e957e76f-880f-471e-9931-a6d4ce7f7130,132,1253,21.0,96.3,129,8.3
+Karan Umatt,India,8b52823c-4b89-44ac-8a39-7a517a7385d8,132,14206,51.4,75.6,10,6.0
+Aryan Chavda,India,54f216cf-c6e4-426b-a5b7-fc1b16888c5e,39,473,21.1,67.1,212,6.1
+Saurav Dihingia,India,e37d1a2e-ec15-472e-8409-ac623211bc34,119,5937,55.1,76.4,0,0.0
+Shubh Sharma,India,d6ae1c72-a304-4108-856d-49196887c07d,45,5567,55.6,124.8,4,3.4
+Md Kounain Quraishi,India,8bf9fce7-35d8-4a4d-86c2-c6ac5b5c8ecb,136,3135,41.0,98.7,103,5.6
+Govinth Ganesh,India,24f04582-9245-42a8-b8da-3ece1bb0fd7e,118,1162,17.8,62.1,176,8.9
+Sumit Nag,India,19cbff1f-ec87-4d9a-b5b4-d18da750384c,188,755,14.4,96.0,136,7.3
+Chandrahas Dash,India,fb59782c-5458-40bc-b71d-7db7ad78b94b,184,825,21.0,78.9,249,6.0
+Abishek Kumar ,India,367ffac4-defb-4ee3-82e1-31445f14b6c8,133,4306,39.9,142.5,5,1.0
+Siddharth Prasad,India,953625d4-67a9-48b8-93e7-5224a18bcca3,38,1369,13.7,99.7,121,8.4
+Rahul Kumar Prasad,India,55d4c8fa-349c-44db-b145-56d04faf95aa,191,14162,31.0,118.3,0,0.0
+Amar Iqbal Bhutia,India,95756c46-568b-41cf-8ad5-d66677940b9c,21,273,13.7,88.1,232,5.6
+Sayed Tufayl Ahmad,India,d8d3076b-9e0b-4254-9dd1-a77c259f6263,63,1598,32.3,134.9,121,6.6
+Dinesh Majhi,India,8fe40b93-26b5-456a-ae25-4ad2eb3f3e83,165,634,14.2,87.3,230,8.8
+Ahaan Poddar,India,268dfb60-27d0-4497-80f6-de9df8058ab5,245,5362,39.7,132.0,2,3.1
+Harshit Paliwal,India,523d9ec7-32e7-4d52-96ed-b2b0fe86c7c7,128,1225,30.8,121.8,134,5.9
+Nikhil Harsh,India,d76e9644-c733-4f99-8e85-c861908e9f81,138,773,19.2,89.3,99,8.6
+Rohit Kumar,India,893d5895-8880-41e1-832b-44d09d41886e,192,3806,39.2,129.7,6,3.7
+Kushal Pal,India,d258d8ce-3cb4-452b-b2d1-dcbde01d5dd5,158,229,24.2,64.4,198,5.3
+Khangembam Santosh,India,88a110f7-d9d3-4b9a-a1b9-d8bcf2420bfb,96,5236,25.1,145.3,5,1.3
+Ayekpam Rakesh,India,8ede0a6b-e593-481a-b176-4e57354b57c4,99,8278,39.3,85.9,10,2.4
+Ngariyan-bam Jameson,India,86f59c6d-a852-423a-a2d5-491c071c5e44,191,8137,34.6,110.3,1,0.7
+Badal Kanaoujia,India,58153d86-0176-4d14-a57e-5b9f5a59a80d,221,4883,40.1,86.4,143,7.3
+Honey Singh,India,cd8dc8cd-c765-4d7d-9e68-0e11ac6abe61,72,1173,21.8,96.9,236,7.2
+Himanshu Tiwari,India,37eded7f-9c31-4612-be60-c6db1e42aa87,53,935,19.7,74.8,126,8.4
+Nabam Kama,India,247cd9ad-b5be-4341-8e7a-da0c6301ad18,294,6171,51.7,106.9,9,4.1
+Dheeraj Antin,India,f86da28f-b949-4c20-bfe6-e08d71acb79d,206,3274,33.8,132.5,30,7.1
+Techi Tiklee,India,6e4a7303-4ccb-42ed-bfd5-1e5a761d3490,67,6451,43.2,149.6,7,0.9
+Suryansh Singh,India,6138da2c-5573-46ea-8c3b-2e7fd4076341,175,195,14.9,81.1,51,6.7
+Ajit Kamra,India,3ac7f14a-62d9-4727-8e65-6e36d6cc2fc0,256,8335,54.7,104.3,8,2.5
+Lalroluahpuia Ngente,India,9a9d201c-97e9-46a3-980c-992926b5dde5,181,141,22.8,74.0,231,8.2
+Christiaan du Toit,South Africa,79949b1a-c392-48a1-83f0-69242a218ff4,21,14498,46.3,87.6,3,7.3
+Thomas Balkin,Australia,7dfc8d15-5cba-4d98-ad04-977988187d8e,115,85,22.6,80.1,135,4.8
+Jerrssis Wadia,Australia,47caa22e-26a2-41c6-b710-ba72a782d6af,142,580,13.2,83.6,218,6.6
+Jeff Vaughan,Australia,a375b2d7-619c-4438-8b0d-2ded72104b8a,137,1653,42.8,91.4,57,8.2
+Hemant Kumar,India,e81d5d5d-6756-412e-96a3-d3a37778fb79,29,189,17.6,72.5,151,6.1
+Hemant Kumar,India,abf26c2b-44fa-447d-a31e-2be9d7ae003c,191,1160,20.9,63.4,91,7.5
+Elliot Seddon,New Zealand,f90d34c0-277e-4055-9a49-52cc500edc30,58,495,24.1,83.7,81,4.6
+Callum Cameron,New Zealand,0f81308f-3492-4ed9-9a6e-53305f6bf13b,78,1420,41.1,108.1,8,7.7
+Wian Ruthven,South Africa,662bc522-26b3-407d-954f-90caa86184bf,179,1025,22.7,68.5,62,8.1
+Hardus Coetzer,South Africa,e1465aab-ff69-45e5-8e98-5618b5f1ae4d,239,6971,53.6,88.5,4,3.5
+Tylor Trenoweth,South Africa,b30303a6-b0b8-4be7-ad6e-02557c316c2e,124,1102,16.0,66.4,111,8.0
+Monde Maqunqu,South Africa,7c4bffd0-026f-4b75-8fa9-dc849ed68a5f,56,2948,36.0,120.6,120,6.3
+Mbulelo Dube,South Africa,862a198b-1b12-454a-9458-52279f78f1d4,151,6562,41.5,134.9,42,7.8
+Kashief Joseph,South Africa,02ba3d29-8fec-40cd-96a3-928a8c7dc04a,118,13335,40.0,148.7,10,2.3
+Rhot Sen,India,00bbf37d-512a-411e-b4af-a0ccc9293434,73,788,15.7,89.4,231,4.6
+Avinash,India,39853546-7efd-4a58-8c98-fb317f1a4064,71,7760,35.6,103.2,135,6.0
+Kundan Verma,India,d233fb31-4230-433b-a3a0-19c992edca45,233,2430,51.0,118.3,5,0.3
+Ishant Bhardwaj,India,c61651b7-34c5-479c-9d58-264815f701ba,118,10979,27.8,97.5,7,0.5
+Amanpreet Singh,India,d9d1a618-10e0-406c-84c3-ee04015993c1,231,1900,35.8,133.4,68,7.4
+Sanyam Saini,India,944a5d8e-0424-4892-98c1-fa3c3c9a0e34,82,1720,32.1,118.9,75,7.8
+Sandeep Nishad,India,373cc5a2-47b5-4eb8-834d-b9e957034d64,275,11007,38.2,93.1,8,0.1
+Naveen Kumar Singh,India,ff2dc6b6-e7ab-4118-b27f-f6d53ce7a110,43,732,16.6,75.8,68,6.2
+Anshuman,India,e40c05d8-a9d4-4116-b601-b8c332d78864,220,8354,35.9,142.2,4,4.8
+Vidush Arora,India,6767f995-3b89-4236-9c60-cf6e7bd283af,87,3539,34.7,95.1,48,6.1
+Kawalpreet Singh,India,515bfe68-d30b-4988-8299-500644aafeba,197,63,19.6,86.7,174,6.3
+Haider Razzaq,United Arab Emirates,83497c5d-dd61-400e-bbc9-7364972e9cdf,98,4762,40.2,88.3,124,6.9
+Ajay Kumar,United Arab Emirates,40b9ce99-6be4-4bfd-9db4-23b4c125a4c6,141,1302,13.5,81.9,122,5.3
+Raees Ahmed Ayan,United Arab Emirates,21eb4432-d54a-4b88-bfb0-2411f087d02d,41,1104,9.8,67.1,159,7.5
+Ashish Siwach,India,ea695a28-503c-471c-8c12-4ae170e75fe8,94,10093,45.5,99.3,1,1.3
+Amit Kumar,India,6ed13677-5228-45cf-8cfb-c72c476f8fdb,119,4206,37.6,129.0,66,7.7
+Sadek Hussain,India,e4f57c15-d8cd-4d9f-9a5d-8b9d3960ebf7,182,14105,37.0,119.9,3,4.6
+Harish Kumar,India,b906fe3a-8b1b-4d18-bf66-319890a5b56c,33,4705,47.9,145.7,6,1.7
+Yash Arora,India,19e23dbb-5466-4bb0-9334-2550b6e4141f,294,11506,31.1,85.8,10,6.1
+Satyam Maurya,India,573a2ebd-6f16-4b39-bc5d-5a2fce190849,133,3257,33.2,111.2,50,7.7
+Chera Mapu,India,61c177b7-53bf-495f-8ce8-7758b41292b2,62,1480,12.5,79.5,40,9.0
+Soumya Ranjan Lenka,India,8fdc88fd-36a5-47ba-b4fd-4a566368af9c,88,10595,51.8,101.1,10,1.2
+Amarjeet Sharma,India,03951183-a60c-442a-9b93-967aead2fe87,284,14523,31.6,128.8,2,5.9
+Dado Tachung,India,80cd7391-e1c3-48ff-83aa-2b276ee460ee,152,5874,50.5,75.5,9,0.8
+Sargun,India,7d8ae77d-dc4a-4319-967b-363e5d88fb91,220,4990,55.0,136.4,2,4.6
+Mohammed Salahuddin Izhar,India,e899c36d-dd74-42f1-9c72-743fea2e23cf,167,4181,34.0,110.2,135,8.3
+Bhanu Kumar,India,62e26aa3-cae2-4ecf-a64d-533c7bc55d05,107,976,14.2,93.4,136,7.5
+Atul Prakash,India,ac8e2535-cf48-48a6-bc0d-5360405e90b3,75,5853,43.1,104.0,89,6.0
+Aman Rao Perala,India,cc8d32c8-98b5-4dd5-8dda-64f2321eaa97,115,1337,16.2,96.7,143,6.4
+Vageesh Sharma,India,39528c5e-49af-4cde-923f-305d998e3050,208,14333,50.7,123.7,1,4.8
+Vivek Naresh Kumar,India,f22eb7ef-cd75-4aea-a4c5-326504111857,72,12388,43.3,84.7,8,5.9
+Samant Jakhar,India,67b1e698-8a5c-4e6e-9768-3c751c8b2d1b,220,2254,58.4,131.7,1,8.0
+Akash Pugazhanthi,India,5fd86c6c-b7e2-4f52-9427-e3417b3bef60,47,9139,27.5,112.4,9,6.7
+Ayush G,India,0b2d66e2-d685-46ff-ad81-478f3a062bcc,190,6322,30.8,129.1,127,5.7
+Lucky Farman Khan,India,d4ebb39c-770a-478b-950f-70b6d3a67240,134,3676,42.7,123.4,44,6.3
+Techi Sania,India,40e65fc5-f27a-4680-a7e4-edf104054b6a,120,12535,29.3,83.0,6,4.1
+Magung,India,5f5189c7-0ff5-40a5-95b8-573957a7f1cc,86,10702,35.2,80.1,7,2.3
+Rahul Chauhan,India,8016f8a9-0107-4310-b1bb-78ba835e31c0,47,123,16.5,80.9,227,7.5
+Nchumbemo Humtsoe,India,8fa5727f-e624-4e33-a85d-7cf3ec7a9da0,151,4719,44.2,126.7,6,2.0
+TC Vanlalremruata,India,cff21077-c22a-4f07-ac66-2c4bca8e0702,297,5773,57.0,111.0,4,6.5
+Marco Alpe,New Zealand,c470ee45-b661-4e23-a0ce-7b27e9e069dc,53,6582,50.6,111.2,0,0.0
+James Naylor,New Zealand,baa47932-f6b0-4f85-8ef9-9ab13ea93d38,25,12584,43.2,140.3,1,4.7
+Nihar Deka,India,bc9c5950-52f8-421d-a27a-d67833d4d0df,273,2173,45.1,89.2,10,6.2
+Gaurav Choudhary,India,794a0285-0525-47ef-b86d-04856a6694d8,254,12579,36.9,75.8,5,2.6
+Aditya Rout,India,5c50fe36-4a77-4d1e-80bc-4cb804658f42,81,10298,30.2,115.3,6,5.8
+Rishiket Sisodia,India,d3c27d86-33cd-4f82-8522-2bcd684c7919,97,5729,47.7,87.2,3,2.5
+Ashish Srivastav,India,8c6ce4f4-4461-46a5-93da-ad1ced082cc6,183,1280,20.5,67.0,109,6.4
+Arfaz Ahmed Mohammad,India,5f800a67-e2d4-4879-90f0-f78d73016175,54,14637,38.3,110.4,3,3.5
+HK Simha,India,fd4b15d1-173a-4611-9938-129986879dca,76,2795,35.3,100.2,35,7.3
+Yuvraj Keswani,India,b12fa9cb-cea4-4aa3-9e89-4b7792f2aac7,231,12219,55.2,125.7,9,3.0
+Priyanshu Srivastav,India,d61ff258-fc74-4806-ae19-297a910fd1c2,140,1254,21.9,92.0,191,4.6
+Kiran Laishram,India,b7b926b2-3551-431f-9233-f599a7a78a2a,204,13594,52.7,75.1,0,0.0
+Ningthoujam Thoiba,India,89e371c2-70d5-4e83-b266-5bb354ffea95,224,1256,31.0,132.7,45,8.3
+Nongthombam Denin,India,89b6ed38-5d2d-4068-9fb2-148cdfd73053,65,7467,56.6,102.1,4,4.1
+Mandingbam Andyroshan,India,7f891ec2-3c2a-4cc0-8a88-1185d4ec7a52,80,3545,31.9,84.3,2,6.8
+Abhishek Gupta,India,fba3e6b7-53ed-47c3-b402-f0c5e0c86567,177,2461,31.8,125.7,24,6.0
+Badonnam Mylliemngap,India,63e121d0-8d0e-4014-9a51-c69e850dbfb1,205,11340,39.0,107.2,6,2.4
+Agreas Cham Cham,India,2c90a55c-daa7-4f0f-9edc-95ef19506d6f,94,1045,44.8,105.0,51,6.7
+Sengsrang Sangma,India,c1e8b1b8-6656-472c-b6fb-3e05b5470248,105,1255,17.2,97.5,176,8.4
+Johan Lalbiakkima,India,6069c511-bf16-42da-9f54-b4400efe3da1,101,7748,59.0,99.3,3,1.5
+Lalramnunsiama,India,57acbe93-dd59-45c2-a27c-b02abd55d254,107,763,24.2,87.5,199,7.4
+Zosangkima,India,ad5ca352-3821-464e-b5e8-773362870974,96,2308,55.1,107.2,8,7.0
+Varun Bisht,India,30201ce6-b17d-475d-b163-df0ae453d3cc,131,1464,22.8,79.6,152,6.0
+Adhyayan Daga,India,59583214-f53d-4ab3-b35e-f9ba07ea119a,96,888,10.5,67.7,61,4.7
+Ayush Pandey,India,508c19b3-8e30-4194-80d9-524afa285f97,270,5219,44.9,111.7,2,5.5
+Harsh Vardhan,India,5122d2fc-456d-45a1-97b1-fc798c65f07c,150,14792,32.8,80.6,5,1.2
+Japagnya Bhatt,India,ddedab90-a947-43b4-a3d8-f2b0d23dd2cf,143,1624,36.3,142.5,3,3.1
+Amit Desai,India,9cda0098-460e-4e38-9cf2-84a380909507,85,6151,48.5,137.6,0,0.0
+Yash Doshi,India,dae076a4-340e-49bd-8350-9313076eb54e,132,5632,30.7,126.0,6,6.9
+Hiten Mahera,India,5ef3400a-afdf-4845-bfdc-a9cece700daa,99,1356,42.6,124.9,3,7.6
+Apuraba Biswas,India,f457de42-ed4f-4d03-933b-b36f19530607,61,4516,38.0,149.2,5,0.4
+Indrajit Debnath,India,c71a2a8f-b74e-4fd2-af38-b989c9205880,111,332,14.5,75.0,201,7.0
+Rahul Raj ,India,86f20809-0ca6-485d-a39b-7b89b75ff895,80,1452,31.0,105.7,33,7.3
+Sam Geyer,Australia,245f77e8-6d36-4bd3-90b5-fd816f2228c2,67,13063,37.3,104.8,9,5.5
+Oscar Mabin,New Zealand,9bb57161-31a2-43df-ae5d-eb99f7924355,148,2507,29.4,100.4,145,7.4
+Taylor Bettelheim,New Zealand,2a747637-a365-4565-88ac-57ff81189307,116,4450,34.6,100.6,24,5.9
+Salman Ali,Pakistan,8656d56a-906e-479f-9f56-372759eab4de,213,5823,38.3,125.1,34,7.8
+Patkuri Nitish Reddy,India,4e179607-cbc4-4c0d-a980-0eb6df3b4ecb,207,7059,57.3,123.9,6,0.3
+Rahul Rathee,India,16c1fc7d-c733-4743-9084-7cc2a3eda324,97,6785,38.6,119.3,150,8.4
+Jaideep Singh,India,08058056-71ad-473d-8bc3-c104924978de,119,5196,44.2,101.2,3,3.1
+Jay Malusare,India,40cf5e6d-e91b-4052-9b07-28907fdbd8b2,66,100,17.1,71.4,93,7.3
+Taranpreet Singh,India,5023dcd8-322e-41a0-a1ec-e01385bed38b,153,5479,41.6,112.5,137,7.2
+Sawan Pahariya,India,63219f3c-4540-4970-8bd2-791ade92f674,129,4673,33.9,94.3,63,7.5
+Suman Kumar,India,4cf4bfe9-c81c-4541-9828-503eb1fd8b85,146,2546,46.2,127.3,5,5.8
+Harsh Saini,India,115da1c8-35c7-4bae-87d8-95b4e9dd55f0,233,3265,30.0,101.0,40,5.8
+Andrew Christie,Australia,fd73cdf0-9e00-410f-8679-dbddbd7ba220,282,9719,34.2,79.7,6,4.0
+Jude Coleman,Australia,c7585b97-41c2-4d88-bcb2-9e09c663db2c,223,11735,44.2,95.1,10,4.9
+Mark Sorell,Australia,eb49e6ca-a7b3-4dd7-b2a9-deaf03592aad,90,168,12.0,93.8,209,7.9
+Aryan Mann,New Zealand,be91bf83-8420-4e7d-83e6-a973c6a27093,68,3940,33.9,126.6,2,6.6
+Gaurav Farde,India,ea3060b7-8755-4cc8-bd49-bb2bdbd69d17,222,3907,47.1,75.8,9,2.4
+Anurag Yadav,India,44e02219-fe59-48b8-948c-826953217294,213,1555,31.0,101.7,95,7.9
+Subhajit Paul,India,5931c352-ad9d-4131-8a6a-97fe933fa22d,58,9753,26.5,137.8,1,7.8
+Amit Yadav,India,aeb65544-b820-4172-aa55-d4690ef52263,174,472,22.5,78.2,41,6.8
+Jashanpreet Singh,India,02f8d44d-ef23-49dd-91f8-62a4f80441e7,201,12578,41.3,132.5,6,5.6
+Aditya Purohit,India,300d12ce-2ae6-4ac0-9cbe-688b1bedfb3f,172,13909,51.7,76.8,8,2.0
+Rituraj Biswas,India,68f036d0-05af-438c-857f-c35952ca8441,239,12683,26.3,101.3,7,1.3
+Vachaspati,India,b3f339de-faf3-422d-899f-74d9c69e9414,126,293,16.4,70.3,186,5.3
+Shubham Roy,India,f30c6690-35cc-4e1f-ba24-13b180caa096,103,7034,39.6,108.2,118,6.5
+Jaskaran Sandhu,New Zealand,a6529864-dd75-4c23-91aa-9a7ae0783120,92,3586,43.5,124.8,90,6.6
+MD Rejaul Karim,Brazil,6ed97c56-f2e1-4944-85b4-445e639b4f08,183,100,24.9,67.9,148,6.5
+Kushaal Krishnakumar,Bulgaria,a6d8a421-ecfd-4718-858f-439293a297e3,258,3136,29.3,126.6,7,4.4
+Satyam Bhoyar,India,dc673513-5757-4ca5-9778-8cd9d98fb666,59,2809,35.0,102.8,28,5.8
+Sourav K Gouda,India,6361ed96-b360-4c5e-8d00-4702e5d519db,223,3133,28.6,117.5,46,6.4
+Arjun Sakrola,India,f2b5ace7-db67-40fb-8f1a-f3467094987d,83,6793,39.4,99.9,38,6.6
+ND Rakesh Kumar,India,55949c22-e723-4b2c-8ddc-073f793db637,66,13157,54.6,78.3,10,6.7
+Sentu Sarkar,India,a57a9b07-99ab-42c6-a46d-d152242ccfcb,183,372,21.9,77.4,56,6.7
+Rahul Hari Prasad,India,64543297-a4fe-46ea-9b14-daad6a050fb8,87,8000,30.0,122.6,130,7.4
+Felipe Muniz,Brazil,25ded231-2f1a-4c99-9eb4-7dc565876f7b,185,2384,38.0,97.5,123,6.1
+Luiz Moras,Brazil,752b9809-56e5-4b02-8d43-323915cf4ae1,195,5631,27.4,104.1,8,3.0
+Stevan Savkovic,Serbia,35247a29-9dcc-4994-845c-6568689d24c6,243,6603,41.4,109.4,3,2.6
+Ashish Bam,Cyprus,8c04b871-4281-4a4a-a1a7-1dcb4f61b734,196,10607,25.2,108.0,2,3.4
+Irfan Ali,India,90519aa9-f889-411c-a5f0-6d0141c96c25,105,4070,42.7,92.2,111,7.8
+Sumeet Lahiri,Mexico,77bd7323-911b-467f-9e17-f303e0bf7695,124,12598,33.8,128.7,0,0.0
+Jayanth Byrappa,Mexico,f10f8731-89d2-4da9-b382-f980ef4374f8,137,160,12.0,64.5,87,5.5
+Gurpreet Singh,Mexico,2cdb853a-ea89-4881-aec7-83d386868238,182,879,18.6,72.5,120,4.7
+Amir Butt,Mexico,587e20ae-9c1c-4457-ad30-1341b0be19c0,106,1252,28.9,129.9,62,7.5
+Hassan Nasir,Mexico,ba7d0d3e-c5d8-4ba2-93b5-96fb71329b77,72,4655,39.2,78.9,6,3.6
+Yusuf Abovat,Panama,e55348a5-ad0d-47f0-b51f-417327cbb6b6,39,8132,43.0,118.0,0,0.0
+Nathan Ingleston,Panama,20d48c4b-3d82-4aed-8b0a-d0af5e42f7e8,159,14411,28.9,132.2,8,4.7
+Abdul Makda,Panama,8f6eeb2c-4143-473f-b7c8-57cee444a5d5,32,8271,54.4,117.8,3,4.0
+Mahmed Bawa,Panama,581f71fe-0030-4038-8497-40e9ee9061d2,196,6122,59.1,90.3,2,7.9
+Rizwan Mangera,Panama,b6ccf662-2c5e-4057-949b-9cbc75c973ed,97,1080,18.5,85.2,171,8.8
+Safvan Patel,Panama,8cb74078-36cd-4018-a280-5d5893c1f6c7,219,7880,42.9,93.5,110,8.0
+Taylor Stumer,Australia,e5dfb687-b076-4297-9cfa-41a1c5fca648,141,12651,33.5,76.0,10,2.7
+Samuel Skelly,Australia,5d3126f5-9f46-4c42-851c-7494fea5c4c8,235,5629,49.4,96.7,2,0.7
+Harrish Kannan,New Zealand,805d6555-c47b-4cdd-a61e-0cbca6528d2b,135,2589,38.1,94.4,127,7.7
+Xavier Bell,New Zealand,147c4f4e-2e63-4d8b-b7fd-92bd18674c9a,91,7670,38.0,90.6,90,7.1
+Ira Aery,Australia,8245cb55-0871-436c-b1ea-a941ef742f10,69,369,19.8,76.1,221,5.5
+Vritti Dahiya,Canada,408cec8e-9f7e-4843-822b-1ff54ed0dce2,149,577,24.7,91.1,228,8.1
+Matilda Maitland,Australia,8762b7d2-5434-4699-b280-35d49892fe27,180,1801,32.0,106.9,112,5.9
+Vincent Kumar,India,b946ca22-4789-4dd8-89c3-e020eb1b78bf,120,791,24.7,92.2,179,7.9
+Rishi Bhardwaj,India,edd9eae8-88af-451b-b4b9-ba9ac5ab37bd,82,1498,40.4,98.8,106,7.0
+Maddie White,Australia,5ef27007-cd1a-4e52-805b-567665c720cf,161,791,16.7,69.8,168,8.7
+Ayush Goyal,India,10be74bd-ff15-4a31-8897-4ae9963a6cb9,207,13699,26.4,110.0,4,7.0
+Odilemba Kichu,India,552f3992-63f4-4106-9ec5-212642843228,205,7805,32.1,106.4,39,6.2
+Sahil Reza,India,d7ab22aa-c6d0-4aa7-9b89-add08a2fe83f,55,10401,41.8,117.4,4,0.5
+Sachin Kumar,India,19d07b4e-c2e6-48df-a801-3325ed26d246,96,8781,55.2,91.7,10,4.3
+Srishti Raha,Canada,fe07f9f3-69e4-4526-aae4-67f8285aabc6,22,3644,44.6,77.0,1,2.9
+Emily Powell,Australia,49302a3e-86da-44d2-b365-0fdf51d9f610,155,4081,37.5,101.4,100,8.2
+Elizabeth Worthley,Australia,cb293d4f-e275-40c2-8994-7084714aef3e,164,1116,19.7,82.5,117,8.1
+Jasmine Kamboj,Australia,2fde8dba-85cb-4713-aa1e-f7c5be1b3179,199,1569,43.8,116.1,10,6.0
+Rachel Carroll,Australia,126e6295-cb44-4f0a-8494-01df39cfd0bf,196,1787,44.5,132.1,26,7.9
+Olivia Maxwell,Australia,09c3e5a8-b546-414e-9bb9-e61d66f9aa4d,235,7684,37.0,132.7,97,6.3
+Alexandra Mavros,Australia,23358c69-18bf-4bb1-8854-eee25243b663,109,338,20.0,96.4,176,4.6
+Tara French,Australia,a397ac0e-1d9d-4881-9699-85f6f8db0bf7,104,2810,32.7,129.3,120,7.3
+Zeel Patel,Canada,131665e2-fd64-4432-9eec-0acbf9c49b9d,43,894,20.1,93.2,187,9.0
+Jasmina Oldham,Canada,c1dacd9f-9c5b-4d0d-8f95-7da27a7b8424,165,3125,41.4,112.5,10,3.0
+Charli Mclennan,Australia,61c72bae-4beb-46da-a7e0-4c3830a847b1,239,10878,59.8,89.9,10,4.3
+Filippa Suesee,Australia,a6926d29-bd59-46c0-9e2d-00073934dcb4,146,13785,47.6,83.6,6,0.9
+Clodagh Ryall,Australia,a569283e-b724-483e-b2f0-da72db2d7964,182,805,21.0,85.5,222,9.0
+Ava Curtis,Australia,0c70a894-c5f9-4c05-82ed-c3273f8f4626,94,6986,38.7,113.2,147,6.6
+Mia Barwick,Australia,1604f1b5-bbf2-4d07-bb36-e18041da638b,120,1126,21.2,80.8,51,8.7
+Caitlin Mair,Australia,6115516d-6f5f-4d96-904d-b284ec24b1b8,117,695,13.0,70.7,91,4.7
+Irfan Safi,Austria,ed572c18-a53f-4cc1-bd56-a943bff1a452,150,6958,44.3,111.1,146,8.3
+Tharindu Sandaruwan,Romania,8d2fa6c1-7dc1-4626-8fb8-5006b1e50b6b,112,6116,32.7,97.0,41,8.3
+Janitha Fernando,Romania,10bee586-aa99-4313-9e4f-5ee6b0a3ca35,50,502,16.8,97.8,150,8.6
+Josak Khadka,Romania,8ae0696d-6c35-40f1-8bca-98808e79e836,170,11415,28.6,144.5,2,1.7
+Avishka Iroshan,Romania,a66f15b1-0516-4d30-b170-d92915ec21d8,285,14615,59.5,84.7,1,5.5
+Bryn Brokensha,South Africa,7a864bf7-ed5c-41e2-9ff3-aa2b7a7a9539,57,1151,8.9,98.7,39,4.6
+Ruben Maree,South Africa,032baf6f-8988-4b13-a4c3-10ebd5665231,192,286,20.8,73.2,35,8.7
+Jaden Govender,India,50708177-9944-45b2-8fa2-1caa6c4a7c41,122,3512,35.0,99.2,87,7.7
+Sidhant Purohit,India,44d8f963-fea4-40e8-8c8b-8dd93b7cf54b,196,6501,36.4,89.3,122,7.8
+Hane Tau,Papua New Guinea,c8e0999c-84a0-4b0b-b955-ceb6f804c117,182,1116,8.5,90.6,153,7.5
+Hrituraj Roy,India,af22c8c8-12cf-4c3e-8c3f-b2b761abe814,241,518,51.5,120.0,0,0.0
+Amarjeet Singh,India,9d37f7ae-5a3c-43e4-97e2-21d67aa8e52f,90,7537,34.2,97.4,0,0.0
+Shivam Kumar,India,9841d412-d436-4c00-a8d7-478cef7f21c9,219,688,48.3,126.7,5,0.1
+Abhinav Tejrana,India,211a255d-8680-4366-965e-06d92da94436,178,2851,40.8,90.0,41,5.9
+Saurav Kumar,India,e72820bf-f70e-4aa4-a788-ae79d21c8aa0,277,8990,31.7,142.8,4,4.1
+Tohuka Zhimo,India,c2a2bced-e30d-44f2-909f-e0c8d1b22363,136,12924,59.1,93.9,5,1.8
+Jainath Mansingh,India,2a5cd082-e9e7-4395-bd5a-d1d111f11b07,49,5297,34.8,103.1,4,7.3
+Janmejay Joshi,India,a44f30b5-77e9-4303-b99f-5dc9f3654340,128,1047,21.2,95.7,205,7.6
+Lalrempuia,India,9a970967-ea2b-45b1-b51b-52e22165c0fb,21,449,18.5,83.5,206,8.9
+Aaron Nongrum,India,1756582a-4344-47e5-a9e3-c9e179d6cd9b,140,9911,37.6,139.7,4,7.5
+Swastic Chettri,India,b8f2a61a-5050-474b-8094-239ac9e9aac5,68,4450,53.6,131.0,5,6.1
+Kush Agarwal,India,c4baa829-c2c1-4a0e-a0b2-d98c7d186a35,73,1411,10.0,76.1,153,8.5
+Naesh Hussain,India,1ab056d6-68fe-4b75-ab58-bb965c6be9da,111,160,9.0,68.2,229,4.7
+Mohammed Mustaque,India,bc9a5ad4-abe0-4801-ba5c-0b61799559f2,57,515,8.7,93.9,220,6.6
+Amit Rajera,India,1a52cba4-9e31-4c0a-9690-ae9ec0891321,291,9710,26.8,131.6,2,2.9
+K Sai Satwik,India,dbc8c51d-7077-4122-87f5-e40c9cc80fdc,197,1683,31.5,148.2,3,2.8
+Darge Bagra,India,ffac3939-9f1d-4211-b8b9-470f38bbcf73,73,4855,41.5,137.1,3,1.2
+Penjor Mangal,India,eb6cb6fe-1dc6-4644-9175-e0bc75714576,221,6084,38.4,96.4,80,5.8
+Bhashkar Dubey,India,4132526e-2fba-4474-8f95-fa3e575c90ed,82,6100,37.6,76.7,7,4.6
+Khalid Alam,India,9916de0c-c65a-443a-8923-06d75107bf86,131,889,20.9,84.6,231,4.8
+Arnav Kishor,India,495b4383-ae21-406e-8228-430941dc4fbc,189,6450,35.4,118.5,52,8.2
+Nikhil Thakur,India,19a92e6a-0e16-46b5-8876-743d3bb1e317,160,6463,29.7,114.5,129,6.2
+Mohit Soni,India,96a24334-8253-4b70-ac64-03a0443fba4b,55,5226,36.0,100.1,102,7.6
+Aarav Mahajan,India,6aacc670-16a7-474e-af28-522314fc0b08,171,2999,51.5,126.1,3,0.2
+Sagar Rawat,India,c6a26233-e63b-4135-bd27-e71316f61a55,123,1257,24.5,90.7,167,7.4
+Ayushman Malakar,India,8f48e559-a1fe-4447-a363-5a4c16ef8a45,112,2008,36.9,128.2,73,6.2
+Bhargab Lahkar,India,c2914ff9-6b74-4250-b4c5-d65ca06a9848,162,830,15.7,92.2,210,5.4
+Devender Lochab,India,22588d0a-8012-4dd3-8ee7-e2eb11e21de9,125,14555,54.9,144.3,2,0.4
+Nikhil Kashyap,India,473c3203-de0a-4109-9db4-d3c9f670b40b,150,9147,26.7,113.0,3,7.3
+Yashvardhan Dalal,India,36053463-e430-4ec3-9bc0-c0efca6bc3b5,258,5013,29.9,85.1,0,0.0
+Aryaman Singh Dhaliwal,India,09fb4fc4-6fa8-4b81-8603-f9631ed12fb3,114,5226,49.1,118.6,9,5.6
+Ali Diamond,India,b8bb1d47-f569-4935-8079-55891dfa8bb8,228,3836,29.5,114.9,129,8.0
+Jatin Pandey,India,6c23a2d8-a614-49cf-a7b6-9762fd32c5de,43,5056,25.2,87.8,0,0.0
+Shikhar Mohan,India,e870bb93-e08d-4b22-9e21-87e69f247184,68,1469,30.9,125.2,65,6.8
+Jeganathan Hemchudeshan,India,82d5fd84-12a9-488b-92c6-4e6d9463089b,37,300,12.1,86.9,211,6.6
+Badal Biswal,India,e6161ee6-b85d-4590-aff3-c07b68a35273,187,4110,53.2,112.0,7,7.0
+Aryan Gopalan,South Africa,43fe0523-21f3-454d-b6e9-abf57c55232b,221,7775,38.6,115.1,64,8.1
+Valentina Kostova,Bulgaria,ade9d996-c374-4a52-bdf2-4be8bddd98bc,169,4068,32.7,141.9,4,6.8
+Alexandra Ciric,Romania,e060b2f6-69ce-47e3-9829-c49886fd9902,161,7661,43.9,100.7,149,7.2
+Elena Predescu,Romania,603fedd9-8473-43f4-a902-9be67c660a1c,80,3691,32.6,130.2,109,7.5
+Roxana Ciric,Romania,d4149f42-e1f2-491a-95b7-abf0d0c63749,179,1025,32.4,95.6,31,5.8
+Zehra Ender,Turkey,ba7a99dc-9751-472c-8deb-be0781ca25df,149,3959,44.4,111.2,72,8.0
+Ishini Palliya,Romania,97da360d-f938-4d54-a7de-a1a208a893a1,21,1357,15.0,98.8,234,7.4
+Shalika Ariyasinghage,Austria,2d92a860-6d69-4162-9bc0-1abc0878518e,300,14698,34.8,149.6,8,3.6
+Niroshi Kuruppu,Romania,19c87481-dd0b-4e05-8616-5a309fb4eb60,114,7184,39.1,106.3,134,8.1
+Miruna Gabriela Ionita,Romania,f1f66799-6d12-4772-ad72-90167546edc7,60,2520,29.4,85.4,34,7.1
+Stefania Slavaston,Romania,98a13910-22ea-4eda-b9dc-a2f62af3d7a8,106,14298,36.1,139.8,8,0.7
+Alina Lupascu,Romania,656ed93b-16fc-461d-9d0b-f6195c7e3fcb,45,13153,59.7,144.6,7,7.7
+Maya Kearvell,Romania,527da002-47d9-4a69-882c-919599bbc7fc,166,6769,32.1,120.6,138,7.8
+Diana Oros,Romania,57455b79-f740-4a6d-bfdd-4ce4fbadd4f0,185,12334,30.6,90.1,3,5.8
+Daria Tanase,Romania,c044fa26-c151-4282-b9c7-95307d06abaa,214,12504,29.8,128.9,3,2.0
+Eesam Rahman,Japan,a4270ea3-3532-41ff-bec2-300027c0d928,91,5756,43.2,95.9,97,7.5
+Tristan van Rensburg,South Africa,3d74e4d2-0b2e-4142-b9af-d25cc45969e3,239,9340,38.2,79.2,0,0.0
+Ainui Loi,Papua New Guinea,0e656e1a-0943-467e-b9f7-c6f496d4fd1b,261,13636,27.1,98.0,2,4.7
+Doko Rupa,Papua New Guinea,cf4cdf03-6719-46a2-b171-d50e852aa532,106,6501,43.6,122.1,103,7.3
+Nevena Tropolova,Bulgaria,c1f184f0-cd47-4482-a268-c335a3f1fe9f,62,5451,35.9,125.8,70,7.7
+Klimentina Kondakova,Bulgaria,3db13926-6a37-4998-b603-e4b4d58f310b,173,572,21.1,61.1,74,4.5
+Shariq Munir,Qatar,cdb5f47a-4c79-4e71-9a93-dca2dd565fe4,142,1088,16.1,78.5,34,7.6
+Zubair Ali,Qatar,887890a5-e522-4085-984a-e5675539ab6b,283,1547,49.4,131.0,2,4.8
+Tahir Khan,Pakistan,4ee3db89-c60b-4bae-b0d9-3e771bf7ece7,204,4710,39.0,112.1,135,6.1
+Abdul Saad,Pakistan,a86086d3-b7a8-4ce9-bb7b-6efd37843155,65,1341,23.4,82.7,135,5.1
+Max Heingo,Namibia,60ab53b1-926e-4af6-95bd-323965e2c3b7,82,6204,30.5,114.1,23,7.4
+Zahid Ali,United Arab Emirates,fa5b144f-1629-4c2a-8b81-ac63b2e86aee,147,538,13.8,91.4,137,6.4
+Ili Tugaga,Samoa,2423ae4a-f498-4153-9cd1-24eb21e5794c,238,7392,36.9,101.6,138,7.7
+Julian Osbourne,Australia,5c7690d7-d301-4693-9db5-63e5a238b1c4,102,4653,30.1,98.2,72,6.4
+Ben Sawyer,New Zealand,484df512-f594-470e-9dcd-04fcde3d386b,83,1474,57.0,134.2,7,0.8
+Somu Bist,Nepal,d2f37ccf-0b29-4f7c-af8b-ea6b14f4a92e,173,1051,30.7,100.1,137,7.3
+Yashoda Bist,Nepal,5ba9545a-1116-4737-b17f-8fdad248f2b2,151,6239,42.8,134.3,87,5.8
+Bongani Ndaba,South Africa,4d85966c-bc71-4c59-b277-233255e43c61,122,6773,32.9,147.3,4,1.5
+Mandla Mashimbyi,South Africa,5b583a42-3e18-4f7d-a5e8-cc95b7efb68d,171,2524,38.2,121.0,130,6.0
+Luke Williams,Australia,c08d1987-aeac-4d3c-947b-861d969e1ade,82,1282,32.6,120.3,64,6.0
+Ricus Kramm,South Africa,f6fe1648-0a55-45c5-b569-f1e3a8f73318,43,918,31.0,130.0,9,5.6
+Nonelela Yikha,South Africa,ed52b491-d5eb-4858-809c-02afc2c787e3,98,4614,29.8,105.2,71,5.7
+Charl Prinsloo,South Africa,48df573f-220e-4c71-aef4-4c7b3b7ea8c6,179,623,18.3,67.1,79,7.4
+Joseph van Rensburg,South Africa,ff33cace-bb3a-40eb-b9e2-1ec38d14d69f,251,11785,41.4,137.9,7,6.7
+Baakier Abrahams,South Africa,d3cbc380-9eb7-4c5b-a735-093d9439c7eb,160,443,24.4,73.1,49,5.2
+Jade Richter,South Africa,49e53bbb-32e7-4c38-bbf3-4b3e6de45af6,190,51,23.4,85.5,86,8.7
+Ruve Lowe,South Africa,b8db39ba-0065-4ee4-90e7-d74c9f7b68e5,100,5202,44.5,122.3,142,5.7
+Kamran Hussain,Pakistan,1cc0e1d4-5369-4359-b4dc-f39d4bbec130,45,449,21.9,71.1,221,5.8
+Mohammad Humayun Kabir,Bangladesh,57f8fae4-91eb-4493-b75c-b2010754dcc5,45,5026,52.8,76.3,3,4.0
+Nasiruddin Faruque,Bangladesh,dd080847-7cc8-46ef-baef-ee33dbde9754,106,734,12.1,99.4,228,7.8
+Sarwar Imran,Bangladesh,abc76cf1-772e-4047-b676-9a29351ea051,44,801,9.7,63.0,93,4.9
+Scott Prestwidge,Australia,b1010306-486f-4701-8a25-2854d1bc60e3,187,1552,32.2,111.4,55,6.0
+Daniel James Marsh,Australia,56f3b25a-fc4a-4ad4-97f8-a58deca33d86,120,71,12.8,65.9,183,6.5
+Gavan Twining,Australia,6d365036-1301-433e-bd80-67eae3904a71,75,8368,25.2,79.4,5,2.2
